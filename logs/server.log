@@ -1,11 +1,13 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [208] using StatReload
-INFO:     Started server process [210]
+INFO:     Started reloader process [256] using StatReload
+INFO:     Started server process [258]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:41354 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:41366 - "POST /api/ideate HTTP/1.1" 200 OK
-INFO:     172.20.0.1:41380 - "POST /api/ideate HTTP/1.1" 200 OK
-INFO:     172.20.0.1:41380 - "POST /api/ideate HTTP/1.1" 200 OK
-INFO:     172.20.0.1:41366 - "POST /api/ideate HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59460 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:52114 - "OPTIONS /api/ideate HTTP/1.1" 200 OK
+INFO:     172.20.0.1:52120 - "OPTIONS /api/ideate HTTP/1.1" 200 OK
+INFO:     172.20.0.1:52114 - "POST /api/ideate HTTP/1.1" 200 OK
+INFO:     172.20.0.1:52120 - "POST /api/ideate HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58040 - "POST /api/ideate HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58046 - "POST /api/ideate HTTP/1.1" 200 OK
